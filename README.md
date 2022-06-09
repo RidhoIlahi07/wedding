@@ -1,36 +1,33 @@
-responsive-wedding
-------------------
+# Wedding Landing Page - Daeng Sherly Menikah
 
-An HTML5 responsive design using jquery waypoints & scroll-to for a pleasant single-page navigation. This template makes use of media queries and scales well for all mobile form-factors.
+![Thumbnail](/image/thumbnail-web-sherly-daeng-menikah.png)
 
-A live demo can be viewed at:
 
-   http://sarahlovesbradley.com
+# Section/Feature
+- Main Info
+- Countdown to D-Day
+- Time and Place Info
+- Add to Calendar Button (Google Calendar)
+- Map Direction Button (Google Map)
+- Send Message Button (Whatssapp API)
 
-========
+# Stack
+- Netlify (https://netlify.com)
 
-![Preview](https://github.com/bmgdev/responsive-wedding/blob/master/preview.png?raw=true)
+     [![Netlify Status](https://api.netlify.com/api/v1/badges/2b185197-f76c-46e4-a0ab-0fe5c2ff8dc1/deploy-status)](https://app.netlify.com/sites/sherly-daeng-menikah/deploys)
 
-## LICENSE
+- Bulma CSS (https://bulma.io)
 
-(The MIT License)
+# Info
+- Live version check at: https://sherly.dae.ng/
+- Or check demo at: https://sherly-daeng-menikah.netlify.app/
+- Check my web at: https://daengdoang.com :)
 
-Copyright © Scal.io, LLC [Bradley Greenwood](http://github.com/bmgdev/)
+# Fonts
+- Rouge Script (Google Font)
+- Raleway (Google Font)
 
-Permission is hereby granted, free of charge, to any person obtaining a
-copy of this software and associated documentation files (the "Software"),
-to deal in the Software without restriction, including without
-limitation the rights to use, copy, modify, merge, publish, distribute,
-sublicense, and/or sell copies of the Software, and to permit persons
-to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included
-in all copies or substantial portions of the Software.
+# Credits
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
-THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+- Floral vector created by BiZkettE1 - www.freepik.com (https://www.freepik.com/free-photos-vectors/background)
